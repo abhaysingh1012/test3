@@ -4,7 +4,7 @@ export default function ChiefsSection(){
     const chiefs = [
         {
             name: "Juan Carlos",
-            img: "/img/top-chiefs/img_1.jpg",
+            img: "/img/top-chiefs/img_1.JPG",   
             recipesCount: "10",
             cuisine: "Mexican",
         },
