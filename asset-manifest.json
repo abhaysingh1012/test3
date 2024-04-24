@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhaysingh1012.github.io/test3/static/css/main.cce639ed.css",
+    "main.js": "/abhaysingh1012.github.io/test3/static/js/main.e4f1a23a.js",
+    "index.html": "/abhaysingh1012.github.io/test3/index.html",
+    "main.cce639ed.css.map": "/abhaysingh1012.github.io/test3/static/css/main.cce639ed.css.map",
+    "main.e4f1a23a.js.map": "/abhaysingh1012.github.io/test3/static/js/main.e4f1a23a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce639ed.css",
+    "static/js/main.e4f1a23a.js"
+  ]
+}
